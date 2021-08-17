@@ -10,6 +10,9 @@ import TextsmsIcon from '@material-ui/icons/Textsms';
 import NotificationsIcon from '@material-ui/icons/Notifications';
 import profileavater from './assets/avater.png'; 
 
+//import AppsIcon from '@material-ui/icons/Apps';
+//import ComputerIcon from '@material-ui/icons/Computer';
+
 function Header() {
     return (
         <div className="header" >
