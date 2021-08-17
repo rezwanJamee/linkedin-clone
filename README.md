@@ -13,5 +13,6 @@ This project is a basic features replica of Linkedin clone. It is connected with
 ![](screenshot/Feed.png)
 <p align="center"> Screenshot: Linkedin Feed page</p>
 
-
+<hr />
+The firebase authentication is not implemented yet. Also for adding new post to the app, firebase.js file with firebase api configurations need to be added.
 
